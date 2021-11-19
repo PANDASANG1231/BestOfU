@@ -1,0 +1,1 @@
+ssh -i ~/.ssh/bou_id_rsa -L 3306:bestofu-prod.cjs3swlvxw6q.us-east-1.rds.amazonaws.com:3306 lucas@bastion.getbestofu.com
